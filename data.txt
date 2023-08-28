@@ -1,0 +1,11 @@
+Number of values 663780
+Total 7652869.313000751
+Average: 11.529225515985342
+Maximum 22.822
+Minimum 0.229
+Range 22.593
+Lower Quartile 9.4
+Upper Quartile 13.901
+Interquartile Range 4.5009999999999994
+Standard Deviation 2.9125568956627967
+Correlation: 0.86
